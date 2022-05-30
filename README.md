@@ -1,0 +1,1 @@
+![{{alt text}}](https://github.com/tigerjz32/keysmashfun/workflows/{{workflow%20name}}/badge.svg)
